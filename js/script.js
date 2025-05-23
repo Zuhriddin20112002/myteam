@@ -23,9 +23,10 @@ backToTopBtn.addEventListener("click", () => {
   });
 });
 
-document.addEventListener("DOMContentLoaded", () => {
-  let darkBn = document.querySelector(".dark-btn");
-  darkBn.addEventListener("click", () => {
-    document.body.classList.toggle("dark");
-  });
-});
+document.addEventListener("DOMContentLoaded"),
+  () => {
+    let darkBn = document.querySelector(".dark-btn");
+    darkBn.addEventListener("click", () => {
+      document.body.classList.toggle("dark");
+    });
+  };
