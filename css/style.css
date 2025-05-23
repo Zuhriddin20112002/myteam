@@ -12,6 +12,7 @@ body {
   max-width: 1110px;
   margin: 0 auto;
   padding: 0 20px;
+<<<<<<< HEAD
 }
 
 .navbar {
@@ -190,4 +191,6 @@ body {
   .navbar .hamburger {
     display: flex;
   }
+=======
+>>>>>>> 143b5bb797c61ab9f5d56ca72e342d8aeb51b724
 }
